@@ -1,5 +1,5 @@
 // Imports
-#import "@preview/brilliant-cv:4.1.1": cv-entry, cv-section
+#import "@preview/brilliant-cv:4.1.1": cv-entry, cv-section, h-bar
 
 #cv-section("Education")
 
@@ -9,7 +9,7 @@
   date: [2024 - Present],
   location: [Gujranwala, Pakistan],
   description: list(
-    [Currently enrolled in 5th Semester with strong focus on Software Engineering, Database Systems, Computer Networks, and System Analysis.],
+    [Currently enrolled in 5th Semester (CGPA: 2.44 / 4.0) with focus on Software Engineering, Database Systems, Computer Networks, and System Analysis.],
   ),
   tags: ("Information Technology", "Software Engineering", "Databases"),
 )
