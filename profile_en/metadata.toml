@@ -1,0 +1,50 @@
+#:schema ../metadata.toml.schema.json
+
+# Profile: English
+header_quote = "Full-Stack Developer & Systems Specialist | Next.js, Golang, AI Solutions & Linux Infrastructure"
+
+cv_footer = "Curriculum Vitae"
+letter_footer = "Cover Letter"
+
+[layout]
+    awesome_color = "skyblue"
+    before_section_skip = "2pt"
+    before_entry_skip = "2pt"
+    before_entry_description_skip = "1pt"
+    paper_size = "a4"
+    date_width = "3.8cm"
+
+    [layout.fonts]
+        regular_fonts = ["Source Sans 3"]
+        header_font = "Roboto"
+
+    [layout.header]
+        header_align = "left"
+        display_profile_photo = true
+        profile_photo_radius = "50%"
+        info_font_size = "10pt"
+
+    [layout.entry]
+        display_entry_society_first = false
+        display_logo = false
+
+    [layout.section]
+        title_highlight = "first-letters"
+        title_highlight_letters = 3
+
+    [layout.footer]
+        display_page_counter = true
+        display_footer = true
+
+[personal]
+    first_name = "Ahmad"
+    last_name = "Basharat Ali"
+    address = "Gujranwala, Pakistan"
+
+    [personal.info]
+        phone = "+92 3390109443"
+        email = "ahmadbasharatali786@gmail.com"
+        location = "Gujranwala, Pakistan"
+        linkedin = "ahmadbasharatali"
+        github = "ahmadbasharatali"
+
