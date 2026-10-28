@@ -9,7 +9,7 @@
   date: [2024 - Present],
   location: [Gujranwala, Pakistan],
   description: list(
-    [Currently enrolled in 4th Semester with strong focus on Software Engineering, Database Systems, Computer Networks, and System Analysis.],
+    [Currently enrolled in 5th Semester with strong focus on Software Engineering, Database Systems, Computer Networks, and System Analysis.],
   ),
   tags: ("Information Technology", "Software Engineering", "Databases"),
 )

@@ -4,7 +4,7 @@
 #cv-section("Education")
 
 #cv-entry(
-  title: [BS in Information Technology (BSIT) — 4th Semester],
+  title: [BS in Information Technology (BSIT) — 5th Semester],
   society: [Govt. Graduate College of Commerce, Gujranwala],
   date: [2024 - Present],
   location: [Gujranwala, Pakistan],
