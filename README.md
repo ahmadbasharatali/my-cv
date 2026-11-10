@@ -1,6 +1,6 @@
 # Ahmad Basharat Ali — Curriculum Vitae
 
-> Full-Stack Developer & Systems Specialist | Next.js, Golang, AI Solutions & Linux Infrastructure
+> Full-Stack Developer & Systems Specialist | Next.js, Golang, Rust, AI Solutions & Linux Infrastructure
 
 [![Built with Typst](https://img.shields.io/badge/Built%20with-Typst-239DAD.svg)](https://typst.app/)
 [![Template: Brilliant-CV](https://img.shields.io/badge/Template-Brilliant--CV-0284c7.svg)](https://github.com/yunanwg/brilliant-CV)
@@ -18,11 +18,11 @@ This repository contains the Typst source code and compiled PDF versions of my p
 
 ## 🛠️ Tech Stack & Highlights
 
-* **Web & Backend:** Next.js, React.js, Node.js, Golang, TypeScript, Tailwind CSS, REST APIs
+* **Web & Systems:** Next.js, React.js, Node.js, Golang, Rust, WebAssembly (WASM), TypeScript, Tailwind CSS, REST APIs, HTMX
 * **Linux & DevOps:** Production Linux, Docker, Nginx Reverse Proxy, CI/CD, SSL, Zero-Downtime Deployments
 * **AI & Agentic Systems:** OpenAI API, RAG Architecture, Model Context Protocol (MCP), AI Automation
 * **Mobile & Hybrid:** Flutter, Capacitor, Progressive Web Apps (PWA), Android
-* **Databases:** PostgreSQL, Redis
+* **Databases:** PostgreSQL, SQLite, Redis
 
 ---
 

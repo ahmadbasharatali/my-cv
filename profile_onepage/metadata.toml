@@ -8,8 +8,8 @@ letter_footer = ""
 
 [layout]
     awesome_color = "skyblue"
-    before_section_skip = "0pt"
-    before_entry_skip = "0pt"
+    before_section_skip = "-1pt"
+    before_entry_skip = "-1pt"
     before_entry_description_skip = "0pt"
     paper_size = "a4"
     date_width = "3.4cm"

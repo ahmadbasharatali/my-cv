@@ -39,12 +39,12 @@ letter_footer = "Cover Letter"
 [personal]
     first_name = "Ahmad"
     last_name = "Basharat Ali"
-    address = "Gujranwala, Pakistan"
+    address = "Peoples Colony Block Y, Gujranwala, Pakistan"
 
     [personal.info]
         phone = "+92 3390109443"
         email = "ahmadbasharatali786@gmail.com"
-        location = "Gujranwala, Pakistan"
+        location = "Peoples Colony Block Y, Gujranwala, Pakistan"
         linkedin = "ahmadbasharatali"
         github = "ahmadbasharatali"
 

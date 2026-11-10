@@ -16,7 +16,7 @@
   row-gutter: 4pt,
   skill-card(
     "Web & Backend Development",
-    [Next.js · React.js · Node.js · Golang · TypeScript · Tailwind · REST APIs]
+    [Next.js · React.js · Node.js · Golang · Rust · TypeScript · Tailwind · REST APIs]
   ),
   skill-card(
     "Linux & Infrastructure",
