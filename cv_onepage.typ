@@ -18,8 +18,8 @@
 
 #import-modules((
   "skills",
-  "experience",
   "projects",
+  "experience",
   "education",
   "certificates",
 ))

@@ -1,18 +1,17 @@
 // Imports
-#import "@preview/brilliant-cv:4.1.1": cv-entry, cv-section
+#import "@preview/brilliant-cv:4.1.1": cv-entry, cv-section, h-bar
 
 #cv-section("Featured Projects")
 
 #cv-entry(
   title: [Creator & Systems Architect],
-  society: [Romucade — Retro Gaming & WASM Emulation (#link("https://romucade.oph.st/")[romucade.oph.st])],
+  society: [Romucade — Retro Gaming & WASM (#link("https://romucade.oph.st/")[romucade.oph.st] #h-bar() #link("https://github.com/ahmadbasharatali/freegamesmania")[GitHub])],
   date: [2024 - Present],
   location: [Remote],
   description: list(
-    [Architected a high-performance in-browser gaming platform in *Rust* (*Axum*, *Tokio*, *Askama*), delivering 60 FPS emulation across 9+ retro consoles via *WebAssembly (WASM)*.],
-    [Engineered zero-bloat *HTMX* live search/filtering, Linux *inotify* hot-reloading (\~150ms), and a zero-disk streaming proxy for 124,500+ Flashpoint games.],
+    [Architected a high-throughput *Rust* (*Axum*, *Tokio*, *Askama SSR*) platform delivering 60 FPS emulation across 9+ retro consoles via *WebAssembly (WASM)* with *HTMX* and Linux *inotify* hot-reloading (\~150ms).],
   ),
-  tags: ("Rust", "WebAssembly", "Axum", "HTMX", "SQLite", "Linux inotify"),
+  tags: ("Rust", "WebAssembly (WASM)", "Axum", "HTMX", "SQLite"),
 )
 
 #cv-entry(
@@ -21,8 +20,7 @@
   date: [2023 - 2024],
   location: [Remote],
   description: list(
-    [Spearheaded development of an AI platform utilizing *React.js*, *Tailwind CSS*, and a high-performance *Golang* backend service for YouTube intelligence and media processing.],
-    [Integrated *Model Context Protocol (MCP)* enabling secure, context-aware LLM analysis, automated transcript reasoning, and channel analytics.],
+    [Engineered an AI YouTube intelligence platform with *React.js*, *Tailwind CSS*, and high-performance *Golang* service; integrated *Model Context Protocol (MCP)* for context-aware transcript analysis.],
   ),
   tags: ("React.js", "Golang", "Tailwind CSS", "MCP", "OpenAI API"),
 )

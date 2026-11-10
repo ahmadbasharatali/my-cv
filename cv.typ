@@ -17,17 +17,17 @@
   profile-photo: image("assets/ahmad.jpeg", alt: "Profile photo"),
 )
 
-// Page 1: Skills & Experience
+// Page 1: Skills & Key Projects
 #import-modules((
   "skills",
-  "professional",
+  "projects",
 ))
 
 #pagebreak()
 
-// Page 2: Projects, Education, & Certifications
+// Page 2: Professional Experience, Education, & Certifications
 #import-modules((
-  "projects",
+  "professional",
   "education",
   "certificates",
 ))

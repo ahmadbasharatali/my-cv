@@ -9,10 +9,9 @@
   date: [2023 - Present],
   location: [Remote],
   description: list(
-    [Architected and built *AI 404 Redirect*, an intelligent WordPress plugin with semantic URL matching, automated content discovery, and SEO-compliant redirection (301/302).],
-    [Developed real-time analytics dashboards for redirect performance and implemented conflict-detection engines.],
+    [Architected *AI 404 Redirect*, an intelligent WordPress plugin utilizing AI to analyze broken URLs, automate semantic redirection (301/302), and track 404 metrics via live analytics dashboards.],
   ),
-  tags: ("WordPress", "PHP", "OpenAI API", "SEO Optimization"),
+  tags: ("WordPress", "PHP", "OpenAI API", "Full Stack", "SEO"),
 )
 
 #cv-entry(
@@ -21,8 +20,18 @@
   date: [2020 - Present],
   location: [Remote],
   description: list(
-    [Administer production Linux servers hosting web platforms; configured Docker containers, Nginx reverse proxies, and automated CI/CD pipelines with zero-downtime releases.],
-    [Maintained 99.9% uptime with proactive system monitoring, security hardening, and SSL management.],
+    [Administer production Linux servers with 99.9% uptime; configured Docker containers, Nginx reverse proxies, SSL/TLS, and automated zero-downtime CI/CD deployment pipelines.],
   ),
   tags: ("Linux", "Docker", "Nginx", "CI/CD", "DevOps"),
+)
+
+#cv-entry(
+  title: [Cross-Platform Mobile Developer],
+  society: [Client Solutions & Applications],
+  date: [2022 - Present],
+  location: [Remote],
+  description: list(
+    [Engineered responsive cross-platform mobile and hybrid applications using *Flutter*, *Capacitor*, and *PWAs*, integrating secure RESTful APIs, offline caching, and native features.],
+  ),
+  tags: ("Flutter", "Capacitor", "PWA", "Android", "REST APIs"),
 )

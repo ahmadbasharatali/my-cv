@@ -1,5 +1,5 @@
 // Imports
-#import "@preview/brilliant-cv:4.1.1": cv-entry, cv-section
+#import "@preview/brilliant-cv:4.1.1": cv-entry, cv-section, h-bar
 
 #cv-section("Key Projects")
 
@@ -11,6 +11,7 @@
   description: list(
     [Architected a pure *Rust* (*Axum*, *Tokio*, *Askama SSR*) platform delivering 60 FPS emulation across 9+ consoles via *WebAssembly (WASM)*.],
     [Engineered zero-bloat *HTMX* live search/filtering, a Linux *inotify* watcher for \~150ms catalog reloading, and a zero-disk streaming proxy for 124,500+ Flashpoint games with IndexedDB save states.],
+    [Live App: #link("https://romucade.oph.st/")[romucade.oph.st] #h-bar() Repository: #link("https://github.com/ahmadbasharatali/freegamesmania")[github.com/ahmadbasharatali/freegamesmania]],
   ),
   tags: ("Rust", "WebAssembly (WASM)", "Axum", "Tokio", "HTMX", "Askama SSR", "SQLite", "Linux inotify"),
 )
